@@ -1,0 +1,281 @@
+*************************************************************
+FileName = QCW MMC PCBA.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : QCW MMC PCBA.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : QCW MMC PCBA.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : QCW MMC PCBA.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : QCW MMC PCBA.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : QCW MMC PCBA.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D11
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : QCW MMC PCBA.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : QCW MMC PCBA.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : QCW MMC PCBA.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : QCW MMC PCBA.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : QCW MMC PCBA.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : QCW MMC PCBA.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : QCW MMC PCBA.GM4
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : QCW MMC PCBA.GM13
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D11
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : QCW MMC PCBA.GM15
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D11
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : QCW MMC PCBA.GD1
+
+    Adding Layer      : Board Outline
+
+    Adding Drill Pair : Bottom Layer-Top Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D11
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : QCW MMC PCBA.GG1
+
+    Adding Layer      : Board Outline
+
+    Adding Drill Pair : Bottom Layer-Top Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D11
+    D28
+*************************************************************
+

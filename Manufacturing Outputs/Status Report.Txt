@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [QCW MMC PCBA.PcbDoc]
+   Generated File[QCW MMC PCBA.TXT]
+   Generated File[QCW MMC PCBA.LDP]
+   Generated File[QCW MMC PCBA.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 03:05:18 On 15/01/2017

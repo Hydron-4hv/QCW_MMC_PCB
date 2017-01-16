@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:48:07 On 16/01/2017
+
+Output: Export STEP Model of complete PCB
+Type  : ExportSTEP
+From  : Variant [NO_WE_PRESSFIT] of PCB Document [QCW MMC PCBA.PcbDoc]
+   Generated File[Export STEP Model of complete PCB_QCW_MMC_PCBA-(NO_WE_PRESSFIT).step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:48:10 On 16/01/2017
